@@ -1,5 +1,5 @@
 # RECONOCIMIENTO-FACIAL-OPEN-CV
-Reconococimiento facial mediante OpenCv (este proyecto neceseita varios pasos más que el proyecto hecho en face recognition pero va una mejor velocidad, aunque como parte de sus desventajas es que es complicado intentar detectar más de dos rostros, se empieza a liar)
+Reconococimiento facial mediante OpenCv (este proyecto neceseita varios pasos más que el proyecto hecho en face recognition pero va una mejor velocidad, aunque como parte de sus desventajas es que es complicado intentar detectar más de dos rostros porque se empieza a liar)
 El primer paso es hacer un video de la cara con distintos gestos para que podamos reconocer nuestra cara (es mejor grabar dos videos distintos con distinta iluminacion para obtener los parametros adecuados que debemos usar)
 Esos rostros se guardan en una carpeta llamada Data en mi caso. Esa imagenes las usamos en el entrenamiento para obtener los parametros aproximados para que a partir de esos paramentros podamos detectar nuestra cara
 Además de eso obtenemos esta vez tres archivos .xml distintos: modelo EigenFaces, FisherFace, LBPHFace.
