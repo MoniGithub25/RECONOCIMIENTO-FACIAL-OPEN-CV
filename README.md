@@ -15,3 +15,8 @@ RECONOCIMIENTO FACIAL
 
 RECONOCIMIENTO FACIAL CON INFO SOBRE LA PERSONA:
 ![RECONOCIMIENTO FACIAL E INFO](https://user-images.githubusercontent.com/111430658/187043034-460afc59-02a9-40c7-b489-3c170023b405.PNG)
+
+# CAMARA VIGILANTE (MOVIL/ DroidCamApp)
+Hay que cambiar el index de VideoCapture ya sea 1 o 2. El index original de la camara del ordenador siempre será 0.
+
+![image](https://user-images.githubusercontent.com/111430658/187084009-65495a5d-879d-4a86-b330-125d23054211.png)
